@@ -14,4 +14,4 @@ It is designed for developing first-person games originally, and that is readily
 2. You will see a sphere on a table, along with an animated, dancing mannequin. The top right corner of the screen will have a UI, which displays the current texture being rendered to the sphere, along with buttons that allow you to change the current material.
 3. Feel free to switch between textures at will. Note how the shadows from the dancing mannequin affect the surface of the sphere. Note that on the glass texture, you can see some reflection of the mannequin in the sphere.
 
-#####These materials are being changed at run-time through UE4 blueprinting. 
+##### These materials are being changed at run-time through UE4 blueprinting. 
